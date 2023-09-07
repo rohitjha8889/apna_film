@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apna_film/static/css/main.66b6d53d.css",
+    "main.js": "/apna_film/static/js/main.fb968fa0.js",
+    "static/js/787.05f21b5f.chunk.js": "/apna_film/static/js/787.05f21b5f.chunk.js",
+    "index.html": "/apna_film/index.html",
+    "main.66b6d53d.css.map": "/apna_film/static/css/main.66b6d53d.css.map",
+    "main.fb968fa0.js.map": "/apna_film/static/js/main.fb968fa0.js.map",
+    "787.05f21b5f.chunk.js.map": "/apna_film/static/js/787.05f21b5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b6d53d.css",
+    "static/js/main.fb968fa0.js"
+  ]
+}
