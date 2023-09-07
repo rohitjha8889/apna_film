@@ -28,7 +28,7 @@ function Navbar(props) {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0 menu-bar">
               <li className="nav-item">
-                <Link to="/" className="nav-link">
+                <Link to="/apna_film" className="nav-link">
                   Home
                 </Link>
               </li>
@@ -36,13 +36,13 @@ function Navbar(props) {
                 {/* <a className="nav-link" href="#">
                   Favourite
                 </a> */}
-                <Link to="/favourite" className="nav-link">
+                <Link to="apna_film/favourite" className="nav-link">
                   Favourite
                 </Link>
               </li>
 
               <li className="nav-item">
-              <Link to="/search" className="nav-link">
+              <Link to="apna_film/search" className="nav-link">
               <form className="d-flex mx-5" role="search">
               <input
                 className="form-control me-2"
