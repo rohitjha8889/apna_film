@@ -98,6 +98,7 @@ const fetchData_SearchMovie = async()=>{
       <Navbar searchVal={searchVal} changeHandler={changeHandler}/>
     <Routes>
       <Route path="/" element={ <Home top_film={top_film} baseUrl={baseUrl} popular_film={popular_film} upcoming_film={upcoming_film}/>}/>
+      <Route path="/apna_film" element={ <Home top_film={top_film} baseUrl={baseUrl} popular_film={popular_film} upcoming_film={upcoming_film}/>}/>
     <Route path="favourite" element={<Favourite/>}/>
     <Route path="search"  element={<Searchbar searchMovie={searchMovie} baseUrl={baseUrl}/>}/>
 
