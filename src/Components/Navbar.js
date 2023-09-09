@@ -11,7 +11,7 @@ function Navbar(props) {
       Apna Film
     </a> */}
 
-          <Link to="/" className="navbar-brand">
+          <Link to="/apna_film" className="navbar-brand">
             Apna Film
           </Link>
           <button
